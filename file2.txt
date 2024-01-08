@@ -1,3 +1,5 @@
 This is file 2
 This is file content
 This is file content test
+This is file 2
+This is compare file2
